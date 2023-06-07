@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class AreaCalculator {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		while (i != 5) {
+			
+			
+			
+			
+			}
+		
+		
+		
+		}
+		
+		
+	public static double area_circle( int radius ) {
+		
+		return Math.pow(radius, 2); * Math.PI();
+		
+		}         
+	public static int area_rectangle( int length, int width )   
+	public static int area_square( int side )                   
+	public static double area_triangle( int base, int height )  
+
+	
+	
+	
+	}
